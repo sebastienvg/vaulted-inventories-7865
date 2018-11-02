@@ -1,5 +1,8 @@
 # Amdocs UXP/AWS Maxis QA 
 
+[bastion:children]
+common-servers
+
 [common-servers:children]
 proxy-servers
 platform-servers
