@@ -1,0 +1,3 @@
+---
+## common-servers variables
+genconfig_env: "maxis_qa"
